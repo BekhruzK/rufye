@@ -155,4 +155,5 @@ while run:
             window.blit(transform.scale(img, (win_height, win_height)), (0, 0))
         
     display.update()
+   print('Hello')
 
